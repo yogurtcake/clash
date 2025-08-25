@@ -1,5 +1,9 @@
 # 内容：ProxyMedia_SPL
-# 数量：15条
+# 数量：17条
+
+# 新增：lmarena
+
+DOMAIN-KEYWORD,lmarena
 DOMAIN-KEYWORD,xsijishe
 DOMAIN-KEYWORD,sol14
 DOMAIN-KEYWORD,123av
@@ -7,6 +11,7 @@ DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,pikpak
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,pikpakdrive
+DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,xsijishe.com
 DOMAIN-SUFFIX,sol140.com
 DOMAIN-SUFFIX,123av.org
