@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,moomoo.com.hk
 DOMAIN-SUFFIX,moomoo-inc.com
 DOMAIN-SUFFIX,moomooapp.com
 DOMAIN-SUFFIX,1234567.com.hk
+IP-CIDR,101.32.198.91/32,🐃 MooMoo
