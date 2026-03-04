@@ -1,0 +1,17 @@
+
+# 说明：此条为备用配置
+# FUTU-大陆IP（解决香港IP/加载延迟）
+PROCESS-NAME,com.futu.futunnphone
+PROCESS-NAME,FutuNiuNiu
+DOMAIN-KEYWORD,futu
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuq.com
+DOMAIN-SUFFIX,futuquote.com
+DOMAIN-SUFFIX,futusg.com
+DOMAIN-SUFFIX,futubull.com
+DOMAIN-SUFFIX,futu.com
+DOMAIN-SUFFIX,futumarket.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,futucdn.com
