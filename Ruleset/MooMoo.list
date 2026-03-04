@@ -12,4 +12,3 @@ DOMAIN-SUFFIX,moomoo.com.hk # 香港后缀（避免被识别为香港IP）
 DOMAIN-SUFFIX,moomoo-inc.com # Moomoo官方企业域名
 DOMAIN-SUFFIX,moomooapp.com # APP专属域名
 DOMAIN-SUFFIX,1234567.com.hk # Moomoo关联行情域名（易导致报价延迟）
-IP-CIDR,101.32.198.91/32
