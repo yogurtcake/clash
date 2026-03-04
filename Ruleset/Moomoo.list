@@ -2,3 +2,14 @@
 # 数量：4条
 # 说明：新增豆包建议，带详细注释的是豆包建议配置，有问题可以删除
 # 说明：此条是Moomoo的备用配置
+
+PROCESS-NAME,com.moomoo.stock.android
+PROCESS-NAME,Moomoo
+DOMAIN-KEYWORD,moomoo
+DOMAIN-SUFFIX,moomoo.sg
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.us
+DOMAIN-SUFFIX,moomoo.com.hk
+DOMAIN-SUFFIX,moomoo-inc.com
+DOMAIN-SUFFIX,moomooapp.com
+DOMAIN-SUFFIX,1234567.com.hk
