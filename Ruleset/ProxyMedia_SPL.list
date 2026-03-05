@@ -1,5 +1,5 @@
 # 内容：ProxyMedia_SPL
-# 数量：18条
+# 数量：19条
 
 # 新增：lmarena
 #新增：IP-CIDR,43.128.0.0/10
@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,pikpak
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,pikpakdrive
+DOMAIN-KEYWORD,canhuashe
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,xsijishe.com
 DOMAIN-SUFFIX,sol140.com
@@ -21,4 +22,5 @@ DOMAIN-SUFFIX,pikpak.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,canhuashe.com
 IP-CIDR,43.128.0.0/10
