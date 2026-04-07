@@ -2,7 +2,6 @@
 # 数量：20条
 
 # 新增：lmarena
-#新增：IP-CIDR,43.128.0.0/10
 
 DOMAIN-KEYWORD,lmarena
 DOMAIN-KEYWORD,xsijishe
@@ -15,11 +14,14 @@ DOMAIN-KEYWORD,pikpakdrive
 DOMAIN-KEYWORD,canhuashe
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,xsijishe.com
+DOMAIN-SUFFIX,sjs47.com
+DOMAIN-SUFFIX,sjs66.com
 DOMAIN-SUFFIX,sol140.com
 DOMAIN-SUFFIX,123av.org
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,pikpak.com
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,pikpakdrive.com
 DOMAIN-SUFFIX,pikpak.me
 DOMAIN-SUFFIX,canhuashe.com
