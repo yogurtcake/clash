@@ -1,4 +1,4 @@
 # 内容：GEOIP
 # 数量：1条
 
-GEOIP,CN,DIRECT
+GEOIP,CN,no-resolve
